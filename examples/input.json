@@ -1,0 +1,15 @@
+{
+  "collateral": 10,
+  "debt": 25,
+  "start": 0,
+  "duration": 10,
+  "start_price": 10,
+  "floor_price": 2,
+  "bids": [
+    {
+      "timestamp": 5,
+      "quantity": 10,
+      "max_price": 6
+    }
+  ]
+}

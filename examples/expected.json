@@ -1,0 +1,15 @@
+{
+  "collateral_remaining": 5,
+  "collateral_sold": 5,
+  "debt_remaining": 0,
+  "raised": 30,
+  "surplus": 5,
+  "trace": [
+    {
+      "cost": 30,
+      "filled": 5,
+      "price": 6,
+      "timestamp": 5
+    }
+  ]
+}
